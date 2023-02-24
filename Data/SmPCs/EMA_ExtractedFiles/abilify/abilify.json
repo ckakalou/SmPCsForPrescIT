@@ -1,0 +1,525 @@
+[{
+	"SoC": null,
+	"ADE": "Common",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Weight ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "increased ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Diabetes ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "mellitus ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Weight ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "decreased",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Agitation ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Anxiety ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Restlessness ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Insomnia",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Extrapyramidal ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "disorder ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Akathisia ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Tremor ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Dyskinesia ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Sedation ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Somnolence ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Dizziness ",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Headache",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Eye disorders",
+	"ADE": null,
+	"Frequency": "Common"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": null,
+	"Frequency": "Common"
+},
+{
+	"SoC": "Vascular \ndisorders",
+	"ADE": null,
+	"Frequency": "Common"
+},
+{
+	"SoC": "Respiratory, \nthoracic and \nmediastinal \ndisorders",
+	"ADE": null,
+	"Frequency": "Common"
+},
+{
+	"SoC": null,
+	"ADE": "Uncommon",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Hyperglycaemia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Hypercholesterolaemia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Hyperinsulinaemia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Hyperlipidaemia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Hypertriglyceridaemia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Appetite disorder",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Suicidal ideation ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Psychotic disorder ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Hallucination ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Delusion ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Hypersexuality ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Panic reaction ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Depression ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Affect lability ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Apathy ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Dysphoria ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Sleep disorder ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Bruxism ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Libido decreased ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Mood altered",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Dystonia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Tardive dyskinesia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Parkinsonism ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Movement disorder ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Psychomotor hyperactivity ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Restless legs syndrome ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Cogwheel rigidity ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Hypertonia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Bradykinesia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Drooling ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Dysgeusia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Parosmia",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Eye disorders",
+	"ADE": "Oculogyric crisis ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Eye disorders",
+	"ADE": "Vision blurred ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Eye disorders",
+	"ADE": "Eye pain ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Eye disorders",
+	"ADE": "Diplopia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Eye disorders",
+	"ADE": "Photophobia",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Ventricular extrasystoles ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Bradycardia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Tachycardia ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Electrocardiogram T wave ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "amplitude decreased ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Electrocardiogram abnormal ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Electrocardiogram T wave ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "inversion",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Vascular \ndisorders",
+	"ADE": "Hypertension ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Vascular \ndisorders",
+	"ADE": "Orthostatic hypotension ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Vascular \ndisorders",
+	"ADE": "Blood pressure increased",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Respiratory, \nthoracic and \nmediastinal \ndisorders",
+	"ADE": "Cough ",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": "Respiratory, \nthoracic and \nmediastinal \ndisorders",
+	"ADE": "Hiccups",
+	"Frequency": "Uncommon"
+},
+{
+	"SoC": null,
+	"ADE": "Not known",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Anorexia ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Metabolism \nand nutrition \ndisorders",
+	"ADE": "Hyponatraemia",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Completed suicide ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Suicide attempt ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Pathological gambling ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Impulse-control disorder ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Binge eating ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Compulsive shopping ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Poriomania ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Nervousness ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Psychiatric \ndisorders",
+	"ADE": "Aggression",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Neuroleptic malignant ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "syndrome ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Grand mal convulsion ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Serotonin syndrome ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Nervous \nsystem \ndisorders",
+	"ADE": "Speech disorder",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Eye disorders",
+	"ADE": null,
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Sudden unexplained death ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Cardiac arrest ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Torsades de pointes ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "Ventricular arrhythmia ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Cardiac \ndisorders",
+	"ADE": "QT prolongation",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Vascular \ndisorders",
+	"ADE": "Syncope ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Vascular \ndisorders",
+	"ADE": "Venous thromboembolism ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Vascular \ndisorders",
+	"ADE": "(including pulmonary embolism ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Vascular \ndisorders",
+	"ADE": "and deep vein thrombosis)",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Respiratory, \nthoracic and \nmediastinal \ndisorders",
+	"ADE": "Oropharyngeal spasm ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Respiratory, \nthoracic and \nmediastinal \ndisorders",
+	"ADE": "Laryngospasm ",
+	"Frequency": "Not known"
+},
+{
+	"SoC": "Respiratory, \nthoracic and \nmediastinal \ndisorders",
+	"ADE": "Aspiration pneumonia",
+	"Frequency": "Not known"
+}]

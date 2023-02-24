@@ -1,0 +1,7 @@
+[{"Very common": "≥/10",
+  "Common": "≥/100 to <1/10",
+  "Uncommon": "≥/1000 to <1/100",
+  "Rare": "≥/10000 to <1/1000",
+  "Very rare": "<1/10000",
+  "not known": "not known (cannot be estimated from the available data)"
+}]

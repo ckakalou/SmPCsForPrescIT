@@ -1,0 +1,285 @@
+[{
+	"SoC": "Infections and \ninfestationsa",
+	"ADE": "Infections \u2013 bacterial ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Infections and \ninfestationsa",
+	"ADE": "Infections \u2013 viral ",
+	"Frequency": "Very common  "
+},
+{
+	"SoC": "Infections and \ninfestationsa",
+	"ADE": "Infections \u2013 pathogen unspecified ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Infections and \ninfestationsa",
+	"ADE": "Infections \u2013 fungal",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Blood and lymphatic \nsystem disorders",
+	"ADE": "Neutropenia ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Blood and lymphatic \nsystem disorders",
+	"ADE": "Leucopenia ",
+	"Frequency": "Very common  "
+},
+{
+	"SoC": "Blood and lymphatic \nsystem disorders",
+	"ADE": "Thrombocytopenia ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Blood and lymphatic \nsystem disorders",
+	"ADE": "Febrile neutropenia ",
+	"Frequency": "Very common  "
+},
+{
+	"SoC": "Blood and lymphatic \nsystem disorders",
+	"ADE": "Lymphopenia ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Blood and lymphatic \nsystem disorders",
+	"ADE": "Anaemia ",
+	"Frequency": "Very common  "
+},
+{
+	"SoC": "Blood and lymphatic \nsystem disorders",
+	"ADE": "Disseminated intravascular coagulation",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Immune system disorders",
+	"ADE": "Cytokine release syndrome ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Immune system disorders",
+	"ADE": "Hypogammaglobulinaemia ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Immune system disorders",
+	"ADE": "Haemophagocytic lymphohistiocytosis*",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Metabolism and nutrition \ndisorders",
+	"ADE": "Hypophosphataemia ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Metabolism and nutrition \ndisorders",
+	"ADE": "Hypokalaemia ",
+	"Frequency": "Very common  "
+},
+{
+	"SoC": "Metabolism and nutrition \ndisorders",
+	"ADE": "Hyponatraemia ",
+	"Frequency": "Very common  "
+},
+{
+	"SoC": "Metabolism and nutrition \ndisorders",
+	"ADE": "Hypocalcaemia ",
+	"Frequency": "Very common  "
+},
+{
+	"SoC": "Metabolism and nutrition \ndisorders",
+	"ADE": "Hypoalbuminaemia ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Metabolism and nutrition \ndisorders",
+	"ADE": "Decreased appetite ",
+	"Frequency": "Very common  "
+},
+{
+	"SoC": "Metabolism and nutrition \ndisorders",
+	"ADE": "Hypomagnesaemia",
+	"Frequency": "Very common"
+},
+{
+	"SoC": "Psychiatric disorders",
+	"ADE": "Deliriumb  ",
+	"Frequency": "Common "
+},
+{
+	"SoC": "Psychiatric disorders",
+	"ADE": "Insomnia",
+	"Frequency": "Common"
+},
+{
+	"SoC": "System organ class",
+	"ADE": "Adverse reaction",
+	"Frequency": "All grades frequency"
+},
+{
+	"SoC": "Nervous system disorders",
+	"ADE": "Encephalopathyc ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Nervous system disorders",
+	"ADE": "Headache*  ",
+	"Frequency": "Very common  "
+},
+{
+	"SoC": "Nervous system disorders",
+	"ADE": "Dizzinessd ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Nervous system disorders",
+	"ADE": "Seizure ",
+	"Frequency": "Common "
+},
+{
+	"SoC": "Nervous system disorders",
+	"ADE": "Hemiparesis ",
+	"Frequency": "Common "
+},
+{
+	"SoC": "Nervous system disorders",
+	"ADE": "Aphasiae  ",
+	"Frequency": "Common "
+},
+{
+	"SoC": "Nervous system disorders",
+	"ADE": "Ataxiaf  ",
+	"Frequency": "Common "
+},
+{
+	"SoC": "Nervous system disorders",
+	"ADE": "Motor dysfunctiong  ",
+	"Frequency": "Common "
+},
+{
+	"SoC": "Nervous system disorders",
+	"ADE": "Tremor",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Cardiac disorders",
+	"ADE": "Tachycardia* ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Cardiac disorders",
+	"ADE": "Atrial fibrillation*",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Vascular disorders",
+	"ADE": "Hypertension ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Vascular disorders",
+	"ADE": "Hypotension*h",
+	"Frequency": "Very common"
+},
+{
+	"SoC": "Respiratory, thoracic, and \nmediastinal disorders",
+	"ADE": "Dyspnoea  ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Respiratory, thoracic, and \nmediastinal disorders",
+	"ADE": "Cough ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Respiratory, thoracic, and \nmediastinal disorders",
+	"ADE": "Pulmonary oedema ",
+	"Frequency": "Common "
+},
+{
+	"SoC": "Respiratory, thoracic, and \nmediastinal disorders",
+	"ADE": "Hypoxia*",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Gastrointestinal disorders",
+	"ADE": "Vomiting ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Gastrointestinal disorders",
+	"ADE": "Diarrhoea ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Gastrointestinal disorders",
+	"ADE": "Nausea ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Gastrointestinal disorders",
+	"ADE": "Constipation ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Gastrointestinal disorders",
+	"ADE": "Gastrointestinal haemorrhagei",
+	"Frequency": "Common"
+},
+{
+	"SoC": "Musculoskeletal and \nconnective tissue \ndisorders",
+	"ADE": "Arthralgia ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Musculoskeletal and \nconnective tissue \ndisorders",
+	"ADE": "Myalgia",
+	"Frequency": "Common"
+},
+{
+	"SoC": "General disorders and \nadministration site \nconditions",
+	"ADE": "Pyrexia* ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "General disorders and \nadministration site \nconditions",
+	"ADE": "Fatigue*j ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "General disorders and \nadministration site \nconditions",
+	"ADE": "Asthenia ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "General disorders and \nadministration site \nconditions",
+	"ADE": "Oedemak ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "General disorders and \nadministration site \nconditions",
+	"ADE": "Chills*",
+	"Frequency": "Very common"
+},
+{
+	"SoC": "Investigations",
+	"ADE": "Alanine aminotransferase increased ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Investigations",
+	"ADE": "Aspartate aminotransferase increased ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Investigations",
+	"ADE": "Blood alkaline phosphatase increased ",
+	"Frequency": "Very common "
+},
+{
+	"SoC": "Investigations",
+	"ADE": "C-reactive protein increased*",
+	"Frequency": "Common"
+}]
