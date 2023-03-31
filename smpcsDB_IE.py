@@ -6,7 +6,6 @@ import sqlite3
 import pandas as pd
 import platform
 import json
-import textile
 
 SmPCsPath = "Data/SmPCs/"
 MedDRAPath = "Data/MedDRA"
