@@ -17,7 +17,6 @@ conn = sqlite3.connect(SmPCsPath+'SmPCs.db')
 smpcsData = pd.read_csv(SmPCsPath+'dataset.csv')
 smpcsData.to_sql('smpcs', conn, if_exists='append', index=False)
 
-
 medicinesOutputData = pd.read_csv(SmPCsPath+'Medicines_output_european_public_assessment_reports.csv')
 medicinesOutputData.to_sql('emaMedicinesOP', conn, if_exists='replace', index=False)
 
