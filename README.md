@@ -41,19 +41,21 @@ The EMA files contain all medicines for human and veterinary use, including auth
 Run the script `EMAStats.py` to create a new database with only the authorised medicines.
 The actual SmPCs information will be extracted from the `joinedHumanAuthorisedProductURLsONLY.csv` file which contains the URLs for the authorised medicines for human use.
 
-**Step 3: Extract the 4.8**
+**Step 3: Extract the "Tabulated Summary of Adverse Reactions" from the 4.8 section "Undesirable Effects".**
 
+Run the script `tableExtractionPython.py` to extract the table from the SmPCs. 
+The script will create a new folder for each medicine and save the table as a csv file in the folder, all under the . 
+The script will also create a new folder for the tables that could not be extracted.
 
+**Step 4: Check whether there are any empty directories**
+The script `checkEmptyDirectories.py` will check if there are any empty directories where the tables could not be extracted and count the number to be able to monitor the progress.
 
-#DB with SmPCs Data folder structure explanation
-Script #1: csvs to sqlite to add data to db
-Script #1a: smpcsDB_IE ???
-Script #2: download EMApdfs.py
-Script #3: EMAStats.py
-Script #4:
-Script #5: table extractionPython
--- Explain directories
-Script #6: checkEmptyDirectories
-Script #7: determineTableStructureSaveToJSON
-Script #8: monitoringExcelFile
+**Step 5: Determine the structure of the tables and save the structure to a JSON file.**
+The script `determineTableStructureSaveToJSON.py` will determine the structure of the tables and save the structure to a JSON file. 
+However, due to the huge diversity in the structure of the tables, the script will not be able to determine the structure of all the tables.
+So far, for the first medications on the list, a dedicated python script has been written to determine the structure of the table for each medication/pdf file.
+
+**Step 6: Create a monitoring Excel file**
+The script `createMonitoringExcelFile.py` will create a monitoring Excel file with the following columns: 
+"medicationName", "tableFound", "typeOfTable", "jsonFormat" so that the current status of the tables can be monitored.
 
